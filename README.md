@@ -39,7 +39,7 @@ The Ghana Christian International High School Store Management System is a web a
 Visit http://localhost:3000 in your browser to access the application.
 
 ## contributing
-We welcome contributions from the community. If you find any issues or have suggestions for improvements, please create a GitHub issue or submit a pull request.
+We welcome contributions from the community. If you find any issues or have suggestions for improvements, please create a GitHub issue or submit a pull request, or contact the developer via email: atosam91@gmail.com or call/WhatsApp: +23354400865.
 
 ## License
 This project is licensed under the [MIT License.](https://mit-license.org/)
