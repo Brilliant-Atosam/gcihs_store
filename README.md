@@ -20,21 +20,21 @@ The Ghana Christian International High School Store Management System is a web a
 
 ## Installation
 1. Clone the repository:
-   ``` git clone https://github.com/your-username/school-store-management-system.git
+   `git clone https://github.com/your-username/school-store-management-system.git`
 2. Navigate to the project directory:
-   ``` cd GCIHS stores
+   `cd GCIHS stores`
 3. Install dependencies for the server:
-``` cd api
-``` npm install
+`cd api`
+`npm install`
 4. Install dependencies for the client:
-``` cd client
-``` npm install
+`cd client`
+`npm install`
 5. Start the server:
-``` cd ../api
-`` npm start
+`cd ../api`
+`npm start`
 6. Start the client:
-``` cd ../client
-``` npm start
+`cd ../client`
+`npm start`
 
 Visit http://localhost:3000 in your browser to access the application.
 
